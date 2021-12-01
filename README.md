@@ -1,1 +1,5 @@
-# Creation-of-Component-in-Typescript-React-and-store-and-retrive-data-from-local-Storage
+Store data in local storage
+reusable components
+Use Typescript
+
+Implementated Basic Calculator and printed the result By retrieving data from local Storage
